@@ -1,0 +1,65 @@
+#text-center {
+    margin-top: 30px;
+    text-align: left;
+    font-size: 17px;
+}
+
+#textA {
+    font-size: 14px;
+}
+
+#textJ {
+    font-size: 14px;
+}
+
+#textR {
+    font-size: 14px;
+}
+
+#textF {
+    font-size: 14px;
+}
+
+#ca {
+    background-color: green;
+    width: 1px;
+    height: 30px;
+    margin-left: 10px;
+}
+
+#cj {
+    background-color: aqua;
+    width: 1px;
+    height: 30px;
+    margin-left: 10px;
+}
+
+#cr {
+    background-color: yellow;
+    width: 1px;
+    height: 30px;
+    margin-left: 10px;
+}
+
+#cf {
+    background-color: red;
+    width: 1px;
+    height: 30px;
+    margin-left: 10px;
+}
+
+#a_alumno {
+    background-color: green;
+}
+
+#r_alumno {
+    background-color: yellow;
+}
+
+#f_alumno {
+    background-color: red;
+}
+
+#j_alumno {
+    background-color: aqua;
+}
